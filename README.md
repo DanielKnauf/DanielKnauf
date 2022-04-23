@@ -1,4 +1,7 @@
-### Hi there 👋
+### Welcome friend.
+
+#### Private Projects
+- _AboutSmiles_ - app for Android hepling users to collect and remember positive moments in your life ([Play Store](https://play.google.com/store/apps/details?id=danielknauf.aboutsmiles)).
 
 <!--
 **DanielKnauf/DanielKnauf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
