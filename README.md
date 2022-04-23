@@ -1,6 +1,6 @@
 ### Welcome friend.
 
-#### Current Project
+#### Currently working on
 - _AboutSmiles_ - app for Android helping users to collect and remember positive moments in their lives ([Play Store](https://play.google.com/store/apps/details?id=danielknauf.aboutsmiles)).
 
 <!--
